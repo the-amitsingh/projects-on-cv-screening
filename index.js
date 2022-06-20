@@ -2,7 +2,7 @@ console.log("CV screening ");
 
 const data = [
     {
-        Name: 'Aakash  ',
+        Name: 'Aakash shaw ',
         age: 18,
         city: 'Kolkata',
         Language: 'python',
